@@ -33,6 +33,10 @@ p {
   color: #343a40;
 }
 
+#page-top a{
+  display: none;
+}
+
 @media screen and (min-width:576px) {
   .row {
     margin-bottom: 30px;
